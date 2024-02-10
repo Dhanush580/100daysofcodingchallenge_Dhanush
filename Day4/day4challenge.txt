@@ -1,0 +1,5 @@
+day 4 challenge done :)
+As part of day 4, i made a change to my cloned repository in my local machine and used 
+"git Push", "git status", "git add" , "git commit" commands to push the changes made in 
+my local machine to repository in github.
+This is very interesting as i was half way done of week1 :)
