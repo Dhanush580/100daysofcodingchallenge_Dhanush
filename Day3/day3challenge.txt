@@ -1,0 +1,4 @@
+Day 3 challenge done :)
+As part of this 3rd day, I installed git windows version and checked if it was installed correctly, and i was able to clone my github repository into my system by using "git clone <repo url>" command.
+And i also created day3 folder and day3challenge.txt file in it. so to bring the changes i made to my repository to my system, I used "git pull" command. this brought day3 folder change to my system.
+
