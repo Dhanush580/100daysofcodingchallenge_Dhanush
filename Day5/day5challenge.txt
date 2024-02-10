@@ -1,1 +1,2 @@
 day 5 challenge done :)
+I created a new branch named "day5" and created Day5 folder and day5challenge.txt in it. I created a pull request from day5 branch to main branch and self approved it.
