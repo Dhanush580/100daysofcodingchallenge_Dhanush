@@ -1,0 +1,3 @@
+Day 2 challenge done :)
+As part of day2 challenge, I created a repository named "100dayscodingchallenge_Dhanush" and created a file in Day1 Folder in this repository named day1challenge.txt and also created another folder named Day2,
+and in that  a file named day2challenge.txt and committed changes and saw those changes were made to my repository. 
