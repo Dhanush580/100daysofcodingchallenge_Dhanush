@@ -1,0 +1,6 @@
+Day1 challenge done :)
+as part of day 1 challengeI visited github.com and login into my github account which i created previously before joining into this challenge.
+(you're used to create one if you don't have one as a part of challenge), and explored the platform and learnt some terminology such as repository, pull, push, pull request, branch, etc.
+
+
+
